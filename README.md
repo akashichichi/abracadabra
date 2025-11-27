@@ -1,1 +1,2 @@
 # My Mixed Reality Project
+CONFLICT_CHANGE_FROM_FEATURE_B
